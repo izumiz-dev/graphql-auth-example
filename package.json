@@ -1,5 +1,5 @@
 {
-  "name": "graphql-auth",
+  "name": "graphql-auth-example",
   "license": "MIT",
   "scripts": {
     "dev": "ts-node-dev --no-notify --respawn --transpile-only src/server",
